@@ -6,7 +6,7 @@
 
 # Introduction
 
-I have created a website that emulates as a cafe for students to order drinks, socialize, and study hard. This website also has password authentication to protect each user's data using Python, JavaScript, TyprScript, SCSS AND HTML.
+I have created a website that emulates as a cafe for students to order drinks, socialize, and study hard. This website also has password authentication to protect each user's data using Python, JavaScript, TyprScript, SCSS and HTML.
 
 The website has the following functionality:
 
